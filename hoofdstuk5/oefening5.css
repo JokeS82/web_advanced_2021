@@ -1,0 +1,27 @@
+.body{
+    background-image: url("../assets/x-mass.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.table {
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 10px;
+    width: 100%;
+    table-layout:auto;
+}
+
+.td {
+    border: 1px solid black;
+    padding: 20px;
+    height: 250px;
+    
+}
+.table td{
+    padding: 106px;
+    font-family: Broadway, serif;
+    font-size: x-large;
+    text-align: center;
+}
